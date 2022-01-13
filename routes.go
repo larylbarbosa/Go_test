@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/yashdiniz/soa_infrastructure_management/endpoint"
-	"github.com/yashdiniz/soa_infrastructure_management/service"
+    "github.com/larylbarbosa/Go_test/endpoint"
+	"github.com/larylbarbosa/Go_test/service"
 )
 
 func (s *server) routes(svc service.Service) {

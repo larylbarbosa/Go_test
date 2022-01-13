@@ -1,6 +1,6 @@
 package endpoint
 
-import "github.com/yashdiniz/soa_infrastructure_management/service"
+import "github.com/larylbarbosa/Go_test/service"
 
 type ErrorOutput struct {
 	Type         string `json:"type"`

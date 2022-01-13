@@ -4,7 +4,7 @@ import (
 	"errors"
 
 	"github.com/gin-gonic/gin"
-	"github.com/yashdiniz/soa_infrastructure_management/models"
+	"github.com/larylbarbosa/Go_test/models"
 )
 
 func (svc service) CreateIntegrationType(reqBody CreateIntegrationTypesRequest) error {

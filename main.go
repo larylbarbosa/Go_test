@@ -7,7 +7,7 @@ import (
 	"os"
 
 	"github.com/gin-gonic/gin"
-	"github.com/yashdiniz/soa_infrastructure_management/service"
+	"github.com/larylbarbosa/Go_test/service"
 )
 
 type server struct {

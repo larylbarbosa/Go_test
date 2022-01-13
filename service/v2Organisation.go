@@ -2,7 +2,7 @@ package service
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/yashdiniz/soa_infrastructure_management/models"
+	"github.com/larylbarbosa/Go_test/models"
 )
 
 type Organisation struct {

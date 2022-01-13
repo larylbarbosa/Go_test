@@ -13,7 +13,7 @@ import (
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gin-gonic/gin"
 	"github.com/google/uuid"
-	"github.com/yashdiniz/soa_infrastructure_management/models"
+	"github.com/larylbarbosa/Go_test/models"
 )
 
 type CustomUserScopes []PartnerUserScope

@@ -7,7 +7,7 @@ import (
 	"strconv"
 
 	"github.com/gin-gonic/gin"
-	"github.com/yashdiniz/soa_infrastructure_management/service"
+	"github.com/larylbarbosa/Go_test/service"
 )
 
 func (endpt *Endpoint) CreateIntegrationType() gin.HandlerFunc {
